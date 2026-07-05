@@ -31,7 +31,7 @@ The **Sales** table acts as the fact table and references the remaining tables u
 
 ### Entity Relationship Diagram (ERD)
 
-![ER Diagram](ER_diagram.png)
+![ER Diagram](ER_Diagram.png)
 
 ---
 
